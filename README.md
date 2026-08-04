@@ -114,7 +114,7 @@ This project helped me understand:
 
 Detailed setup documentation is included in:
 
-AD_Lab_Setup_Report.pdf
+[AD Lab Setup Report](AD_Lab_Setup_Report.pdf)
 
 ---
 
